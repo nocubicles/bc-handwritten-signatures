@@ -1,0 +1,1 @@
+Explanation can be found from here https://www.integrated.ee/posts/business-central-add-signature-to-page/

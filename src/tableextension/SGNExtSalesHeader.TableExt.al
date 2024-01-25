@@ -1,4 +1,4 @@
-tableextension 55000 "SGN Ext. Sales Header" extends "Sales Header"
+tableextension 50002 "SGN Ext. Sales Header" extends "Sales Header"
 {
     fields
     {

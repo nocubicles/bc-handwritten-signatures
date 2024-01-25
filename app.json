@@ -16,7 +16,7 @@
   "application": "19.0.0.0",
   "idRanges": [
     {
-      "from": 55000,
+      "from": 50000,
       "to": 56000
     }
   ],
